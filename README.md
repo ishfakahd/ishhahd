@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ishfak Ahamed</h1>
-<h3 align="center">A passionate frontend & backend developer from Srilanka</h3>
+<h2 align="center">Hi 👋, I'm Ishfak Ahamed</h2>
+<h3 align="center"> <b>Welcome to My GitHub!</b>
+
+Hello! I'm Ishfak Ahamed, a passionate IT professional with expertise in various technologies and a knack for solving complex problems.I am from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishfakahd&label=Profile%20views&color=0e75b6&style=flat" alt="ishfakahd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishfakahd" alt="ishfakahd" /></a> </p>
 
-- 🔭 I’m currently working at [HCLTech](as Junior Analyst)
+- 💼 I’m currently working at [HCLTech](as Junior Analyst)
 
 - 🌱 I’m currently learning **Courses, Frameworks, Coding and etc**
 
-- 👨‍💻 All of my projects are available at [jjjj](jjjj)
+- 👨‍💻 All of my projects are available at my portfolio
 
-- 📫 How to reach me **ishfakahamed33@gmail.com**
+- 📫 How to reach me **ishfakahamed33@gmail.com<br>+94 769872299**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CUg-NVcLVj2dkek1z-nY6aZbNXuWB5eF/view?usp=sharing](https://drive.google.com/file/d/1CUg-NVcLVj2dkek1z-nY6aZbNXuWB5eF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1CUg-NVcLVj2dkek1z-nY6aZbNXuWB5eF/view?usp=sharing)
 
-- ⚡ Fun fact **A cup of tea is my best friend**
+- ⚡ Fun fact **A cup of tea is my best friend.  JK😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
